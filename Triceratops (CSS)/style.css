@@ -1,0 +1,88 @@
+body {
+    background-color: #808080;
+    color: white;
+    text-align: justify;
+    font-size: large;
+}
+
+div {
+    margin: auto;
+    width: 98%;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    border: 1px solid #1D1D4E;
+    box-shadow: 5px 5px 8px #1D1D4E;
+}
+
+#balkep  {
+    height: 130px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+
+p {
+    padding-left: 10px;
+}
+
+#jobbkep {
+    height: 300px;
+    float: right;
+}
+
+table {
+    box-shadow: 5px 5px 8px #1D1D4E;
+    width: 350px;
+    height: 350px;
+    margin-bottom: 20px;
+}
+
+.fejsor {
+    background-color:  #1D1D4E;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+    text-align: right;
+    border: 1px dotted  #1D1D4E;
+    padding-right: 20px;
+}
+
+.italic {
+    font-style: italic;
+    text-align: left;
+    border: 1px dotted  #1D1D4E;
+    padding-left: 20px;
+}
+
+hr {
+    background-color: #1D1D4E;
+    border: none;
+    height: 1px;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.forras {
+    font-style: italic;
+    text-align: center;
+}
+
+a:link {
+    color: #552886;
+}
+
+a:active {
+    color: red;
+}
+
+a:visited {
+    color: #552886;
+}
